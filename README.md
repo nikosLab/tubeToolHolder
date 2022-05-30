@@ -4,7 +4,12 @@
 
 
 # tubeToolHolder
-3D printable Tool and Pen holders designed in 2018
+3D printable Tool and Pen holders 
+
+## Timeline
+* Design start April 2020
+* Major update Sept 2021
+* README and photos May 2022
 
 
 ## Printed Hexagons 
