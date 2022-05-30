@@ -15,6 +15,26 @@ width = 900
 
 ----
 
+
+<p align="center">
+<img
+src="img/08.PNG"
+width = 900
+/>
+</p>
+
+----
+
+
+<p align="center">
+<img
+src="img/09.PNG"
+width = 900
+/>
+</p>
+
+----
+
 <p align="center">
 <img
 src="img/01.PNG"
