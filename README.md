@@ -5,7 +5,7 @@
 
 # tubeToolHolder
 
-Hexagons 
+## Printed Hexagons 
 <p align="center">
 <img
 src="img/07.PNG"
@@ -16,7 +16,7 @@ width = 900
 ----
 
 
-TubeToolHolders
+## PrintedTubeToolHolders
 <p align="center">
 <img
 src="img/10.PNG"
@@ -26,7 +26,7 @@ width = 900
 
 ----
 
-All designs in a single fusion 360 asm file
+## All designs in a single fusion 360 asm file
 <p align="center">
 <img
 src="img/08.PNG"
@@ -45,6 +45,8 @@ width = 900
 </p>
 
 ----
+
+## Hexagons Gallery
 
 <p align="center">
 <img
