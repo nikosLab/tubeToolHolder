@@ -9,7 +9,7 @@
 ## Timeline
 * Design start April 2020
 * Major update Sept 2021
-* README and photos May 2022
+* Scateboard, README and photos May 2022
 
 
 ## Printed Hexagons 
