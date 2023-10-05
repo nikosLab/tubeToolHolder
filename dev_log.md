@@ -97,6 +97,6 @@ width = 600
 />
 </p>
 
-`image 18: hexagonGrid 3D printed, brim removed and cleanout`
+`image 18: hexagonGrid V2 3x3 3D printed, brim removed and cleaned`
 
 ----
