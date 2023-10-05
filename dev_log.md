@@ -10,12 +10,12 @@
 
 <p align="center">
 <img
-src="img3/14.PNG"
+src="img/11.PNG"
 width = 600
 />
 </p>
 
-`image 3-14: `
+`image 11: hexagonGrid 3D modeling`
 
 ----
 
