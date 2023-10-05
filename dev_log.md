@@ -33,7 +33,7 @@ width = 600
 <p align="center">
 <img
 src="img/13.PNG"
-width = 600
+width = 500
 />
 </p>
 
