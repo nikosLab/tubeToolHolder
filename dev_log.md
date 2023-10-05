@@ -52,3 +52,16 @@ width = 300
 
 ----
 
+
+<p align="center">
+<img
+src="img/15.PNG"
+width = 900
+/>
+</p>
+
+`image 15: hexagonGrid Fusion360 parametric design`
+
+----
+
+
