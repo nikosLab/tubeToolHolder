@@ -5,6 +5,8 @@
 
 
 - [summary](summary.md)
+- [dev_log](dev_log.md)
+- [links](links.md)
 
 # tubeToolHolder
 3D printable Tool and Pen holders 

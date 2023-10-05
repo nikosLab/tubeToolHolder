@@ -5,5 +5,5 @@
 # summary
 
 ## 05/09/2023
-- S10. new haxagonGrid design with rectangula array on custom axis and web, based on IAMBUSHI YouTube video
+- S10. new haxagonGrid design with rectangular array on custom axis and web, based on IAMBUSHI YouTube video
 
