@@ -73,7 +73,7 @@ width = 600
 />
 </p>
 
-`image 16: hexagonGrid V2 3x3 test print`
+`image 16: hexagonGrid V2 3x3 test printout`
 
 ----
 
@@ -86,6 +86,6 @@ width = 600
 />
 </p>
 
-`image 17: hexagonGrid Fusion360 parametric design`
+`image 17: hexagonGrid V1 2x2 and V2 3x3 cells test printouts`
 
 ----
