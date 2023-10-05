@@ -89,3 +89,14 @@ width = 600
 `image 17: hexagonGrid V1 2x2 and V2 3x3 cells test printouts`
 
 ----
+
+<p align="center">
+<img
+src="img/18.PNG"
+width = 600
+/>
+</p>
+
+`image 18: hexagonGrid 3D printed, brim removed and cleanout`
+
+----
