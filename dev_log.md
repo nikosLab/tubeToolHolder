@@ -65,3 +65,27 @@ width = 900
 ----
 
 
+
+<p align="center">
+<img
+src="img/16.PNG"
+width = 600
+/>
+</p>
+
+`image 16: hexagonGrid V2 3x3 test print`
+
+----
+
+
+
+<p align="center">
+<img
+src="img/17.PNG"
+width = 600
+/>
+</p>
+
+`image 17: hexagonGrid Fusion360 parametric design`
+
+----
