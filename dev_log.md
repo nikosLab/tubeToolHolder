@@ -48,7 +48,7 @@ width = 300
 />
 </p>
 
-`image 11: hexagonGrid 3D modeling`
+`image 14: hexagonGrid cura statistics`
 
 ----
 
